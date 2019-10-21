@@ -33,3 +33,7 @@ Banking facilities in this mini application: -
                      erase the account thus by erasing the account details.
          
 - Exit: The exit operation enables the administrator to get exit from the main application window.
+
+
+
+- THANK YOU.
